@@ -7,8 +7,7 @@ User SignUp Screen :
 
 User Login Screen :
 
-<img src="https://github.com/GaganJb/RateMySingingProject/blob/master/screenshot_2019-04-19-22-54-32.jpg
-?raw=true" style="max-width:100%;">
+<img src="https://github.com/GaganJb/RateMySingingProject/blob/master/screenshot_2019-04-19-22-54-32.jpg?raw=true" style="max-width:100%;">
 
 Comments List Screen (1) :
 
