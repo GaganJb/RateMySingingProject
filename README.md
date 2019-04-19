@@ -1,4 +1,10 @@
+In this app the user can do the following:
 
+1) Can signup if he is a new user of the app with a password and an email. 
+2) Can Login if he already has an account.
+3) Can comment on other user's comments that are stored in the Firebase console.
+4) The user's email ID will be displayed along with his comment if he posts anything.
+5) Any changes in the database from the firebase console will be reflected directly in the UI realtime.
 
 User SignUp Screen :
 
