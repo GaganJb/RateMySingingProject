@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "308505530677",
+    "firebase_url": "https://realtimedatabse-a4fb9.firebaseio.com",
+    "project_id": "realtimedatabse-a4fb9",
+    "storage_bucket": "realtimedatabse-a4fb9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308505530677:android:bf1f13de5234fd12",
+        "android_client_info": {
+          "package_name": "com.example.asus.realtime_database"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "308505530677-ihl3m8aum6i8vp55kq7lem5lv3vhhe5j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpFs51CSOS17PPNqnvIvr1TRGQkHzjiK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "308505530677-ihl3m8aum6i8vp55kq7lem5lv3vhhe5j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
